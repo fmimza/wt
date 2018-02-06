@@ -6,7 +6,7 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>tern.eclipse.ide.core.ternBuilder</name>
+			<name>tern.eclipse.ide.hgjhgjhjg.ternBuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -21,17 +21,17 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
+			<name>org.eclipse.jdt.ghjhh.javabuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.hibernate.eclipse.console.hibernateBuilder</name>
+			<name>org.hibernate.eclipse.ghjjhjh.hibernateBuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.jboss.tools.jst.web.kb.kbbuilder</name>
+			<name>org.jboss.tools.jst.web.kb.ghjghjhg</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -41,7 +41,7 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<name>org.eclipse.wst.vnbbnvvnb.validationbuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
